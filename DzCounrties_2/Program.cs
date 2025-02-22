@@ -15,7 +15,7 @@ namespace DzCounrties_2
                     switch (choice)
                     {
                         case 1:
-                            RequestsCountries.ShowAllCountries();
+                            RequestsCountries.ShowAllCountries(); 
                             break;
                         case 2:
                             RequestsCountries.AddCountry();
